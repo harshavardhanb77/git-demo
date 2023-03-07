@@ -1,0 +1,10 @@
+The objective of this paper is to enforce some of the emerging technologies like mobile computing, Information and
+Communication Technology and advances in behavioral science studies to enhance and enrich the current educational
+system, since education technology in India has been modernizing in the recent years due to the development and
+penetration of information technology. The mobile technology has been chosen for this study. The methodology of this
+work is to develop an android based mobile attendance management system where attendance can be recorded via mobile
+devices using ASP. NET and SQL Server. Findings of this developed software stores, retrieves and deliver the information
+about the student information such as present or absent through mobile device. Results are very helpful to the organization
+to keep, track and maintain information about students also easy to deliver the report about the students to the concern
+parents. Further this work can be extended to keep the student’s information regarding internal marks, semester marks
+and other activities involved in the organization.
